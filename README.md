@@ -1,6 +1,6 @@
 The documentaion of the project is here>>>[Documentation of Network Management and Design for Company.pdf](https://github.com/sagar658/Network-management-and-Design-for-company/files/14438219/Documentation.of.Network.Management.and.Design.for.Company.pdf)
 Network Management and Design
-Welcome to the Network Management and Design project repository! This project is dedicated to the comprehensive management and design of computer networks, aiming to provide efficient solutions for network administrators and architects. The documentation provided offers detailed insights into network management strategies, design principles, and implementation guidelines.
+Welcome to the Network Management and Design project ! This project is dedicated to the comprehensive management and design of computer networks, aiming to provide efficient solutions for network administrators and architects. The documentation provided offers detailed insights into network management strategies, design principles, and implementation guidelines.
 
 Overview
 The Network Management and Design project aims to:
